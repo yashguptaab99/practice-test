@@ -39,6 +39,8 @@ The second added block has side 2, so the remaining volume is 15 - 8 = 7
 Finally, Limak adds 7 blocks with side 1, one by one.
 So, there are 9 blocks in the tower. The total volume is is 33 + 23 + 7·13 = 27 + 8 + 7 = 42.
 
+### Result
+![alt text](https://github.com/yashguptaab99/practice-test/blob/main/result/towe_of_cubes.png) 
 ## Task 2: Play with Fibonacci sequence 
 You just need to take a number as input from stdin which will tell how many terms of the Fibonacci needs to be printed.
 
