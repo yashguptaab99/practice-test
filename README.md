@@ -60,3 +60,6 @@ Output
 
 Hint:
 The twist in the Fibonacci is that it will get its next number by adding two previous numbers.
+
+### Result
+![alt text](https://github.com/yashguptaab99/practice-test/blob/main/result/fibonnacci.png) 
